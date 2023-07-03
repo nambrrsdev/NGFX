@@ -1,4 +1,6 @@
-# NGFX
+# NGFX Website Resources
 
-Totally not free graphics for everyone.
-[Gay](https://www.google.com)
+Feel free to use any of the things that i used for this. Just dont forget to credit me 💀
+```
+A fancy codeblock, because why not.
+```
